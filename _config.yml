@@ -2,6 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
+#Title of site
+title: Karen Fletcher's Blog
 # Name of your site (displayed in the header)
 name: Karen Fletcher
 
