@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! I'm Karen. I'm a Visual Designer, Art Director and 50% of a web developer. 
 
 ### More Information
 
